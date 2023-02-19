@@ -1,0 +1,82 @@
+bus_number,routes,timing,frequency_in_minutes,number_of_stops
+2 Line,Airoli Sector-10 (Dr.Babasaheb Ambedkar Bhavan) - Thane,8:15 AM - 7:50 PM,35 min,33
+2-EXT Line,Purna Gaon,6:50 AM - 7:50 PM,25 min,21
+3 Line,Koparkhairane Bus Station,7:18 AM - 8:05 PM,20 min,48
+3 Line,Ghansoli Depot,7:37 PM - 8:52 PM,35 min,9
+4 Line,Thane,6:00 AM - 9:45 PM,33 min,58
+4-EXT Line,M.B.P.Mahape (Millennium Business Park),7:35 AM - 8:45 PM,20 min,32
+5 Line,Airoli Bus Station - Chhatrapati Shivaji Maharaj Chowk Bhiwandi,7:25 AM - 9:45 PM,18 min,61
+5 Line,Ghansoli Depot,4:10 PM - 11:07 PM,12 min,17
+7 Line,Vashi Railway Station - Thane,6:55 AM - 8:20 PM,30 min,53
+10 Line,Ghansoli Gharonda - Sanpada Railway Station,6:35 AM - 9:20 PM,38 min,24
+11 Line,Sanpada Railway Station To Turbhe Depot,8:49 PM,Single departure,4
+11 Line,Thane - Sanpada Railway Station,9:35 PM,Single departure,47
+11 Line,Vashi Railway Station - Thane,6:17 AM - 9:15 PM,25 min,56
+12 Line,Vashi Railway Station - Thane,7:10 AM - 8:00 PM,35 min,52
+13 Line,Bonsari Gaon - Samant Vidyalaya Sanpada,Not Operational,Not Operational,14
+13 Line,Sanpada Railway Station - Nerul Railway Station (E) Via Bonsari Gaon,Not Operational,Not Operational,27
+13 Line,Sanpada Railway Station To Bonsari Gaon,Not Operational,Not Operational,11
+13 Line,Sanpada Railway Station To Samant Vidyalaya Sanpada,Not Operational,Not Operational,4
+13 Line,Sanpada Railway Station To Turbhe Depot,Not Operational,Not Operational,4
+17 Line,Nerul Railway Station (E) - Bamandongari Railway Station (E),5:15 AM - 11:45 PM,15 min,18
+18 Line,Ghansoli Depot - Kharkopar Railway Station,7:00 AM - 11:15 PM,35 min,94
+24 Line,Panvel Railway Station (W) - Thane,5:30 AM - 11:35 PM,8 min,65
+26 Line,C.B.D.Belapur Bus Station,5:30 AM - 9:00 PM,30 min,63
+26 Line,Ghansoli Depot,9:40 PM,Single departure,48
+27 Line,C.B.D.Belapur Bus Station,6:30 AM - 10:20 AM,3 hr 50 min,70
+30 Line,Kalamboli Roadpali - Uran Pensioner Park,6:35 AM - 10:05 PM,25 min,74
+31 Line,Ghansoli Depot,11:00 PM - 11:35 PM,35 min,87
+31 Line,Koparkhairane Bus Station,5:30 AM - 10:40 PM,20 min,71
+32 Line,Kalamboli Roadpali - Uran Pensioner Park,Not Operational,Not Operational,74
+34 Line,Juinagar Railway Station - J.N.P.T.Bus Station,7:02 AM - 8:50 PM,31 min,32
+41 Line,Vashi Railway Station - Dombivali,6:37 AM - 8:58 PM,24 min,68
+43 Line,Kharghar Railway Station - Taloja Phase 2,5:40 AM - 9:55 PM,25 min,42
+45 Line,Kharghar Railway Station - Taloja Phase 2,5:35 AM - 9:38 PM,26 min,30
+45 Line,Taloja Phase 2 To Asudgaon Depot,10:03 PM - 10:57 PM,27 min,23
+46 Line,Vashi Railway Station - Badlapur,6:05 AM - 7:40 PM,30 min,67
+47 Line,C.B.D.Belapur Bus Station To Badlapur,Not Operational,Not Operational,75
+47 Line,N.M.M.C.Head Office Belapur - Badlapur,Not Operational,Not Operational,89
+47-EXT Line,Ambernath Railway Station To Asudgaon Depot,8:15 PM,Single departure,90
+47-EXT Line,Asudgaon Depot To Kharkopar Railway Station,1:45 PM,Single departure,50
+47-EXT Line,Badlapur Fire Brigade Centre To Panvel Railway Station,8:05 PM,Single departure,94
+47-EXT Line,Kharkopar Railway Station - C.B.D.Belapur Bus Station,2:48 PM,Single departure,36
+47-EXT Line,Kharkopar Railway Station To Belapur Railway Station,4:04 PM,Single departure,33
+47-EXT Line,N.M.M.C.Head Office - Ambernath Railway Station,6:05 PM,Single departure,93
+48 Line,Belapur Railway Station - Vashivali Gaon (Rasayani),7:00 AM - 8:00 PM,45 min,63
+48 Line,Belapur Railway Station To Asudgaon Depot,8:33 PM - 10:22 PM,20 min,15
+48 Line,Vashivali Gaon (Rasayani) To Asudgaon Depot,8:15 PM - 9:40 PM,1 hr 25 min,50
+49 Line,Asudgaon Depot - Karjat S.T.Stand,9:35 PM - 10:10 PM,15 min,51
+49 Line,Belapur Railway Station - Karjat S.T.Stand,6:50 AM - 8:15 PM,25 min,64
+49 Line,Belapur Railway Station To Asudgaon Depot,8:42 PM - 10:45 PM,28 min,15
+50 Line,Asudgaon Depot To Panvel Railway Station (W),3:15 PM,Single departure,9
+50 Line,Panvel Railway Station (W) - Koparkhairane Bus Station,5:50 AM - 11:08 PM,20 min,45
+50 Line,Panvel Railway Station (W) To Asudgaon Depot,3:08 PM - 11:37 PM,20 min,9
+53 Line,Kharghar Railway Station - Kharghar Valley Ship Gate No.2,6:10 AM - 11:01 PM,16 min,30
+53 Line,Turbhe Depot,11:55 PM,Single departure,42
+54 Line,Kharghar Railway Station - Taloja R.A.F.,6:00 AM - 11:12 PM,21 min,29
+56 Line,Manasarovar Railway Station - Police Commissioner Office (Kalamboli),7:00 AM - 10:40 PM,13 min,25
+57 Line,Mansarovar Railway Station - Steel Market Kalamboli,8:48 AM - 6:17 PM,40 min,16
+58 Line,Belapur Railway Station - Khopoli,6:00 AM - 8:55 PM,30 min,74
+58 Line,Belapur Railway Station To Turbhe Depot,3:00 PM - 10:30 PM,25 min,20
+58 Line,Turbhe Depot,6:00 AM - 8:55 PM,30 min,94
+58 Line,Khopoli,1:40 PM - 4:50 PM,20 min,96
+59 Line,Khandeshwar Railway Station To Asudgaon Depot,12:00 PM - 9:45 PM,9 hr 45 min,5
+59 Line,Panvel Railway Station (E) - Khandeshwar Railway Station,6:38 AM - 9:46 PM,23 min,16
+60 Line,Vashi Bus Station - Durgadi Kalyan,5:45 AM - 11:00 PM,30 min,73
+64 Line,Digha Gaon - Durgadi Kalyan,Not Operational,Not Operational,72
+64 Line,Digha Gaon,Not Operational,Not Operational,36
+64-EXT Line,M.B.P.Mahape (Millennium Business Park) - Durgadi Kalyan,Not Operational,Not Operational,53
+66 Line,Ghansoli Railway Station - Durgadi Kalyan,Not Operational,Not Operational,56
+71 Line,Belapur Railway Station - Durgadi Kalyan,6:45 AM - 10:10 PM,40 min,72
+73 Line,Panvel Railway Station (W) - Durgadi Kalyan,5:30 AM - 9:00 PM,45 min,72
+73 Line,Panvel Railway Station (W) To Asudgaon Depot,10:29 PM - 11:09 PM,40 min,9
+75 Line,Panvel Railway Station (W) - Sai Nagar,6:45 AM - 10:05 PM,23 min,16
+76 Line,Panvel Railway Station (W) - Karanjade Sector 6 (Jai Sambhav Society),6:35 AM - 9:35 PM,20 min,18
+77 Line,Panvel Railway Station (E) - Mahalaxmi Nagar Nere,6:35 AM - 8:45 PM,28 min,22
+82 Line,Vashi Railway Station - Diva Railway Station,8:05 AM - 8:50 PM,20 min,43
+83 Line,Airoli Bus Station,7:05 AM - 8:12 PM,30 min,26
+86 Line,Airoli Bus Station - Diva Railway Station Via Thane,6:45 AM - 9:15 PM,25 min,76
+103 Line,Panvel Railway Station - Hindmata Cinema (Dadar),Not Operational,Not Operational,72
+106 Line,Panvel Railway Station (W) - World Trade Centre,Not Operational,Not Operational,69
+109 Line,Digha Gaon - Nahur Railway Station,Not Operational,Not Operational,24
+113 Line,Nahur Railway Station - L & T Circle Mahape,7:00 AM - 7:20 PM,20 min,30
